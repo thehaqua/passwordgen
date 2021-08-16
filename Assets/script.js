@@ -1,4 +1,3 @@
-
 const resultEl = document.querySelector(".result");
 const lengthEl = document.querySelector(".length");
 const uppercaseEl = document.querySelector(".uppercase");
